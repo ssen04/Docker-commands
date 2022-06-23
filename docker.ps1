@@ -29,6 +29,6 @@
 # Put application in docker
 
 # create directory to store your files
-> 	mkdir webapplication 
+> mkdir webapplication 
 # run containers
-> 	docker-compose up 
+> docker-compose up 
